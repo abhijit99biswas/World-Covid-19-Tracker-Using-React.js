@@ -1,0 +1,19 @@
+.table{
+    margin: 20px 0;
+    box-shadow: 1px 1px 5px rgb(70, 70, 70);
+}
+.table tr{
+    display: flex;
+    justify-content: space-between;
+}
+.table td{
+    padding: 0.3rem;
+}
+.table tr:nth-of-type(odd){
+    background-color: rgb(75, 106, 173);
+    color: white;
+}
+.table tr:nth-of-type(even){
+    background-color: rgb(52, 87, 161);
+    color: white;
+}
