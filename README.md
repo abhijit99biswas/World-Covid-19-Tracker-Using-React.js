@@ -1,6 +1,5 @@
-# Image of the Page
+# Image of the Page and click on the image to visit the website
 <a href="https://world-covid19-tracker-90dd7.web.app/">![DEMO](Image.png)</a>
-![DEMO](Image.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
